@@ -1,0 +1,95 @@
+﻿/**common**/
+.commonFoot{
+	height: 60px;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	background: #EFEFEF;
+	padding: 0 10px;
+}
+.ctIn{
+	height: 40px;
+	margin: 10px auto 0;
+	text-align: center;
+	line-height: 40px;
+	color: white;
+	font-weight: bold;
+	background: #B12A3E;
+
+}
+.ml10{
+	margin-left: 10px;
+}
+.ml15{
+	margin-left: 15px;
+}
+.ml20{
+	margin-left: 20px;
+}
+/**common**/
+.bing{
+	width: 960px;
+	margin: 0 auto;
+
+	overflow: hidden;
+}
+.bgLeft{
+	overflow: hidden;
+}
+.bgLeft,.bgRight{
+	width: 465px;
+	padding: 0 5px 10px;
+	float: left;
+	background: #FFB74A;
+}
+.bgHead{
+	height: 70px;
+	line-height: 70px;
+	text-align: center;
+	font-size: 30px;
+	color: white;            
+}
+.basicA{
+	width: 225px;
+	float: left;
+}
+
+.bAHead{
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	color: white;
+	font-size: 16px;
+	background: #2AA7D1;
+}
+.bAcon{
+	background: white;
+	height: 148px;
+	font-size: 12px;
+	padding: 0 10px;
+}
+.bAcon h1{
+	text-align: center;
+	font-size: 14px;
+	height: 30px;
+	line-height: 30px;
+
+}
+.bAcon p{
+	padding-top: 56px;
+}
+.footDown{
+	background: white
+}
+.fnHead{
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+}
+.fnCon ul{
+	padding: 0 5px 20px;
+}
+.fnCon li{
+	margin-top: 10px;
+	background: url('../images/arrow.png') no-repeat;
+	padding-left: 20px;
+}
